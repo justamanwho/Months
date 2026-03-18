@@ -1,3 +1,1 @@
-# learning_months
-
-Helps me to learn the months in the languages that I'm studying.
+A simple program I've made to learn months in other languages
